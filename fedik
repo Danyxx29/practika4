@@ -1,0 +1,282 @@
+
+
+byb = input("byb").lower()
+
+byba = len(byb)
+
+bybc = list(byb)
+
+def a():
+    print('''  ### 
+ #   #
+ #   #
+ #####
+ #   #
+ #   #
+ #   #\n''' )
+def b():
+        print('''#### 
+#   #
+#   #
+#### 
+#   #
+#   #
+####\n''' )
+def c():
+    print(''' ### 
+#   #
+#  
+# 
+#
+#   #
+ ### \n''' )
+def d():
+    print('''#### 
+#   #
+#   #
+#   #
+#   #
+#   #
+####\n''' )
+def e():
+    print('''#####
+#
+#
+###
+#
+#
+#####\n''' )
+def f():
+    print('''#####
+#
+#
+###
+#
+#
+#\n''' )
+def g():
+    print(''' ###
+#   #
+#
+#  ##
+#   #
+#   #
+ ###\n''' )
+def h():
+    print('''#   #
+#   #
+#   #
+#####
+#   #
+#   #
+#   #
+#   #\n''' )
+def i():
+    print('''###
+#
+#
+#
+#
+#
+###\n''' )
+def j():
+    print('''###
+ #
+ #
+ #
+ #
+ #
+##\n''')
+def k():
+    print('''#   #
+#  #
+# #
+##
+# #
+#  #
+#   #\n''' )
+def l():
+    print('''#
+#
+#
+#
+#
+#
+#####\n''')
+def m():
+    print('''#   #
+#   #
+## ##
+# # #
+#   #
+#   #
+#   #\n''' )
+def n():
+    print('''#   #
+#   #
+##  #
+# # #
+#  ##
+#   #
+#   #\n''' )
+def o():
+    print(''' ### 
+#   #
+#   #
+#   #
+#   #
+#   #
+ ###\n''' )
+def p():
+    print('''####
+#   #
+#   #
+####
+#
+#
+#\n''' )
+def q():
+    print('''  ### 
+#   #
+#   #
+#   #
+#   #
+#   #
+#  # 
+ ## #\n''' )
+def r():
+    print('''#### 
+#   #
+#   #
+####
+# #
+#  
+#   #\n''' )
+def s():
+    print(''' ####
+#
+#
+ ###
+    #
+    #
+ ###\n''' )
+def t():
+    print('''#####
+  #
+  #
+  #
+  #
+  #
+  #\n''' )
+def u():
+    print('''#   #
+#   #
+#   #
+#   #
+#   #
+#   #
+ # #
+  #\n''' )
+def v():
+    print('''#   #
+#   #
+#   #
+#   #
+#   #
+#   #
+ # #
+  #\n''' )
+def w():
+    print('''#   #
+#   #
+#   #
+# # #
+## ##
+#   #
+#   #\n''' )
+def x():
+    print('''#   #
+#   #
+ # #
+  #
+ # #
+#   #
+#   #\n''' )
+def y():
+    print('''#   #
+#   #
+ # #
+  #
+  #
+  #
+  #\n''' )
+def z():
+    print('''#####
+    #
+   #
+  #
+ #
+#
+##### \n''' )
+
+
+for i in range(0, byba):
+    if(bybc[i] == "a"):
+        a()
+    elif(bybc[i] == "b"):
+        b()
+    elif(bybc[i] == "c"):
+        c()
+    elif(bybc[i] == "d"):
+        d()
+    elif(bybc[i] == "e"):
+        e()
+    elif(bybc[i] == "f"):
+        f()
+    elif(bybc[i] == "g"):
+        g()
+    elif(bybc[i] == "h"):
+        h()
+    elif(bybc[i] == "i"):
+        i()
+    elif(bybc[i] == "j"):
+        j()
+    elif(bybc[i] == "k"):
+        k()
+    elif(bybc[i] == "l"):
+        l()
+    elif(bybc[i] == "m"):
+        m()
+    elif(bybc[i] == "n"):
+        n()
+    elif(bybc[i] == "o"):
+        o()
+    elif(bybc[i] == "p"):
+        p()
+    elif(bybc[i] == "q"):
+        q()
+    elif(bybc[i] == "r"):
+        r()
+    elif(bybc[i] == "s"):
+        s()
+    elif(bybc[i] == "t"):
+        t()
+    elif(bybc[i] == "u"):
+        u()
+    elif(bybc[i] == "v"):
+        v()
+    elif(bybc[i] == "w"):
+        w()
+    elif(bybc[i] == "x"):
+        x()
+    elif(bybc[i] == "y"):
+        y()
+    elif(bybc[i] == "z"):
+        z()
+
+
+
+
+
+
+
